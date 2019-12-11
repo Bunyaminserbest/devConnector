@@ -1,2 +1,1 @@
-# devConnector
-New project
+# devConnector Project
