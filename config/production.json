@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://bunyamin:Confiance1995@devconnector-nnnku.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "f535148df641e7b855f4",
+  "githubSecret": "8b1ca732e193892af1df29c2e7f80e7909427e70"
+}
