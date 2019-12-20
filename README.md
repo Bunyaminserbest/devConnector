@@ -13,15 +13,13 @@ forum posts (create posts, comment them, like or unlike them…)
 Do it as part of my training programm in Becode's premises
 
 ## Technologies used:
-- VSCode editor <span style="color:blue">V</span>
-- ES6 + Syntaxe +/-
-- Async / Await V
+
+
 - React Hooks X
 - Redux With DevTools X
-- JWT (Json Web Token) V
+- nodejs
 - Postman HTTP Client V
 - Mongoose / MongoDB / Atlas V
-- Bcrypt Password Hashing V
 - Heroku & Git deployment V
 
 ## Planning
