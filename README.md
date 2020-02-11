@@ -30,4 +30,4 @@ Do it as part of my training programm in Becode's premises
 - the second half i created the UI (user’s interface) using react using redux for state management.
 
 ### What I've learned
-To be honest the second part of this project was to difficult for me. I feel more comfortable with node then react or reduxe. This course allowed me to better understand node architecture. I'm always eager to learn more, the next step is to learning in more details node.js & upgrade my back-end skills
+I feel more comfortable with node then react or reduxe. This course allowed me to better understand node architecture. 
