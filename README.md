@@ -7,7 +7,7 @@ enter your github username & will interact with the github API to pull the 5 lat
 forum posts (create posts, comment them, like or unlike them…)  
 
 ## When
-3 weeks (15 days)
+3 weeks (21 days)
 
 ## Where
 Do it as part of my training programm in Becode's premises
