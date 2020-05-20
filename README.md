@@ -29,5 +29,4 @@ Do it as part of my training programm in Becode's premises
 
 - the second half i created the UI (user’s interface) using react using redux for state management.
 
-### What I've learned
-I feel more comfortable with node then react or reduxe. This course allowed me to better understand node architecture. 
+
