@@ -25,7 +25,7 @@ Do it as part of my training programm in Becode's premises
 ## Planning
 
 ### Project in two parts: 
-- the first half I've build the back and the API, I used postmen to hit the end points.I interact with the database using Mangoose and just dealing with node and express
+- the first half I've build the back and the API, I used postmen to hit the end points.I interact with the database using Mongoose and just dealing with node and express
 
 - the second half i created the UI (user’s interface) using react using redux for state management.
 
